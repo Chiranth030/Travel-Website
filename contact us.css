@@ -1,0 +1,70 @@
+body{
+	min-height: 100%;
+   /*background-image: url(cover.png);*/
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   font-family: Apple Chancery,cursive;
+   color:black;
+   font-size:15px;
+}
+.cs1{
+	padding-top:165px;
+}
+
+h2{
+	text-align:center;
+	font-weight:lighter;
+	font-size:30px;
+ 
+}
+p{
+	
+	font-size:15px;
+	color:black;
+	text-align:center;
+	/*padding-top:10px;*/
+	margin-bottom:0;
+}
+
+.media{
+	position:absolute;
+	top:40%;
+	left:50%;
+	transform:translate(-53%,-50%);
+	padding-top:180px;
+}
+
+li{
+
+   list-style:none;
+   margin:10px 30px;
+   display:inline-block;
+   font-size:60px;
+   padding:20px 20px;
+   color:black;
+   border:1px solid black;
+   border-radius:50%;
+   transition:.5s;
+   color:black;
+}
+
+#insta
+{
+	background:transparent;
+	border:none;
+
+}
+#insta:hover{
+	color:red;
+	border-radius:50%;
+	transition:.5s;
+}
+.media a{
+	text-decoration:none;
+	color:black;
+}
+a:hover{
+	color:red;
+}

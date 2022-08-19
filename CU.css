@@ -1,0 +1,89 @@
+body{
+	padding-top:250px;
+}
+
+h1{
+	text-align:center;
+	padding-right:85px;
+	font-weight:lighter;
+	color:black;
+	font-family:algerian;
+}
+.fix li{
+   list-style:center;
+   margin:10px 30px;
+   display:inline-block;
+   font-size:60px;
+   padding:20px 20px;
+   color:black;
+   border:none;
+   border-radius:50%;
+   transition:.5s;
+   color:black;
+}
+.Fix{
+  margin:20px;
+  padding-left:200px;
+  border-color:black;
+  float: left;
+  width: 200px;
+border:none;
+margin-left:180px;
+	
+}
+.Fix a {
+	width: 100%;
+	height: auto;
+	transition-property: all;
+	transition-duration: 2.0s;
+	text-align:center;
+	color:black;
+	
+}
+.center{
+	padding-left:450px;
+}
+.name{
+	text-align:center;
+	padding-left:69px;
+}
+a:hover{
+	color:lawngreen;
+}
+.fix li{
+   list-style:center;
+   margin:10px 30px;
+   display:inline-block;
+   font-size:60px;
+   padding:20px 20px;
+   color:black;
+   border:solid black;
+   border-radius:50%;
+   transition:.5s;
+   color:black;
+}
+.fix{
+  margin:20px;
+  padding-left:25px;
+  border-color:black;
+  float: left;
+  width: 75px;
+border:solid #black;
+margin-right:70px;
+	
+}
+.fix a {
+	width: 100%;
+	height: auto;
+	transition-property: all;
+	transition-duration: 2.0s;
+	text-align:center;
+	color:black;
+	
+}
+.Name{
+	text-align:center;
+}
+a:hover{
+	color:lawngreen;
+}

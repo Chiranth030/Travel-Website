@@ -1,0 +1,40 @@
+body{
+	min-height: 100%;
+   background-image: url(gwi1.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   font-family: 'Brush Script MT', cursive;
+   color:White;
+   font-size:35px;
+  /* text-align:center;*/
+}
+.mid1{
+	margin: 0 auto;	
+}
+.mid{
+	text-align:center;
+	padding-top:300px;
+	margin-left:30px;
+	
+	
+}  
+#bb{
+	border:solid white;
+	cursor: pointer;
+	border-radius: 16px;
+	font-size:38px;
+	background-color:Transparent;
+	color:white;
+}
+#bb:hover{
+	background-color:black;
+}
+#cpy{
+	bottom:0;
+	right:10px;
+	float:right;
+	padding-top:230px;
+	font-size:20px;
+}

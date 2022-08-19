@@ -1,0 +1,110 @@
+.abc{
+
+background-color:none;
+background-repeat:repeat-x;
+padding-top:0px;
+color:white;
+
+
+}
+.abc {
+	
+	
+	
+	text-align:right;
+	
+	
+}
+.abc ul {
+	margin:0px;
+	padding-top:0px;
+    text-decoration:none;
+	
+ 
+
+margin-left:200px;
+}
+.abc li {
+	display:inline-block;
+	padding 25px 20px;
+	margin-right:20px;
+	
+	
+	
+}
+.abc a{
+	text-decoration:none;
+	text-transform:uppercase;
+	font-weight:45px;
+	font-size:20px;
+	color:white;
+	
+	
+}
+a:hover{
+	background:black;
+
+	
+}
+body{
+background-image: url("Sheilong.jpg");
+ height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: 'AlgerianRegular';
+  background-attachment: fixed;
+}
+.down{
+padding-top:30px;
+}
+.gallery{
+   
+  border-color:black;
+  float: left;
+  width: 200px;
+	border:solid #black;
+	margin-left:10px;
+	padding-left:65px;
+	
+}
+.gallery img {
+	width: 100%;
+	height: auto;
+	transition-property: all;
+	transition-duration: 2.5s;
+	text-align:center;
+	
+}
+.gallery img:hover {
+  transform: scale(1.5); /* IE 9 */
+  transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.dec a{
+	padding:6px;
+	text-align:center;
+	text-decoration:none;
+	color:white;
+}
+
+.photoss{
+margin: 10px;
+  border-color:inherit;
+  float:left;
+  width: 200px;
+	border:solid #ccc;
+	margin-right:40px;
+}
+.photoss img {
+	width: 100%;
+  height: auto;
+  text-align:center;
+	
+}
+.infoo a{
+	padding:6px;
+	text-align:center;
+	text-decoration:none;
+}
